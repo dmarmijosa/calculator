@@ -1,0 +1,27 @@
+td,th{
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  font-size: 30px;
+  -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+
+}
+.result{
+  text-align: end;
+  height: 80px;
+  border: none;
+
+}
+.memory{
+  text-align: center;
+  height: 80px;
+  border: none;
+
+
+
+}
+
